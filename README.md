@@ -91,12 +91,6 @@ const saumy = {
   </table>
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saumyk&theme=tokyonight&no-frame=true&no-bg=true&column=8&margin-w=15&margin-h=15" width="100%"/>
-</div>
-
 ---
 
 ## 🌱 Featured Projects
